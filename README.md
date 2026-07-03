@@ -167,7 +167,7 @@ Output: Fake News (99.44%)
 
 ### Test Case 3
 Input: The United Nations called for conflict-affected region.
-Output: Real News()
+Output: Real News(99.8%)
 
 ### Result
 
