@@ -162,12 +162,12 @@ Input: free luxury car to every citizen above age of 18.
 Output: Fake News (99.6%)
 
 ### Test Case 2
-Input: 
-Output: 
+Input: Magic Fruit that extends human lifespan for 300 years.
+Output: Fake News (99.44%)
 
 ### Test Case 3
-Input: 
-Output: 
+Input: The United Nations called for conflict-affected region.
+Output: Real News()
 
 ### Result
 
