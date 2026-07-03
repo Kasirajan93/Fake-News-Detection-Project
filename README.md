@@ -58,6 +58,21 @@ FAKE-NEWS-PREDICTION
 
 ---
 
+## Project Flow
+
+User Input
+    ↓
+Text Preprocessing
+    ↓
+DistilBERT Tokenizer
+    ↓
+DistilBERT Model
+    ↓
+Softmax Layer
+    ↓
+Prediction + Confidence Score
+
+
 ## 📊 Dataset
 
 ### Source
