@@ -158,16 +158,16 @@ LogisticRegression(max_iter=1000)
 ## Testing
 
 ### Test Case 1
-Input: Magic Fruit article
+Input: free luxury car to every citizen above age of 18.
 Output: Fake News (99.6%)
 
 ### Test Case 2
-Input: RBI policy article
-Output: Real News (95%+)
+Input: 
+Output: 
 
 ### Test Case 3
-Input: Empty text
-Output: Validation warning
+Input: 
+Output: 
 
 ### Result
 
