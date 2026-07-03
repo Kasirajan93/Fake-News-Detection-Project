@@ -1,5 +1,10 @@
 # Fake-News-Detection-Project
 
+
+## 📸 Application Screenshot
+
+![Fake News Detection App](images/app_screenshot.png)
+
 # 📰 Fake News Detection using DistilBERT
 
 ## 📌 Project Overview
