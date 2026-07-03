@@ -3,7 +3,7 @@
 
 ## 📸 Application Screenshot
 
-![Fake News Detection App](images/app_screenshot.png)
+![Fake News Detection App](images/app_screenshot1.png)
 
 # 📰 Fake News Detection using DistilBERT
 
