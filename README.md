@@ -155,6 +155,19 @@ def clean_text(text):
 TfidfVectorizer(max_features=10000)
 LogisticRegression(max_iter=1000)
 ```
+## Testing
+
+### Test Case 1
+Input: Magic Fruit article
+Output: Fake News (99.6%)
+
+### Test Case 2
+Input: RBI policy article
+Output: Real News (95%+)
+
+### Test Case 3
+Input: Empty text
+Output: Validation warning
 
 ### Result
 
