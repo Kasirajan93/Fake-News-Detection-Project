@@ -303,6 +303,15 @@ streamlit run app/streamlit_app.py
 
 ---
 
+## Live Demo
+
+https://fake-news-detection-kasirajan.streamlit.app
+
+## Hugging Face Model
+
+https://huggingface.co/kasirajan10/fake-news-distilbert
+
+
 # 🛠️ Technologies Used
 
 ### Programming Language
